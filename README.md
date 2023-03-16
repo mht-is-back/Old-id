@@ -12,7 +12,7 @@ import uuid
 os.system('git pull')
 os.system('pkg install curl')
 
-logo = (""""\033[132m🅁①🄵④🅃
+logo = (""""\033[132mTamim
 \033[1;32m╔══════════════════════════════════╗╔════════════════════════╗
 \033[1;32m║NOTE : \033[37;45mTHIS TOOLS IS FREE V4\033[0;m\033[1;32m     ║║ \x1b[1;93m╭━━━╮╭╮╭━━━┳╮╱╭┳━━━━╮\033[1;32m   ║
 \033[1;32m║══════════════════════════════════║║ \x1b[1;93m ┃╭━╮┣╯┃┃╭━━┫┃╱┃┃╭╮╭╮┃\033[1;32m ║
@@ -204,7 +204,7 @@ else:
     a = ltx
     tag = "AM"
 
-> Rifat 👀✌🏻:
+> Tamim 👀✌🏻:
 try:
     print('\n\n\033[1;33mLoading asset files ... \033[0;97m')
     v = 5.2
@@ -303,7 +303,7 @@ def rcrack(uid,pwx,tl):
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
             "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
 
-> Rifat 👀✌🏻:
+> Tamim 👀✌🏻:
 "m_ts":re.search('name="m_ts" value="(.*?)"', str(free_fb)).group(1),
             "li":re.search('name="li" value="(.*?)"', str(free_fb)).group(1),
             "try_number":"0",
